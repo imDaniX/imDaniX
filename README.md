@@ -6,7 +6,7 @@ I'm usually developing Minecraft's Bukkit API plugins. Biggest of my _public_ pr
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=imDaniX)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 Contact me?
+### Contact me? 📫
 
 ![SpigotMC](https://www.google.com/s2/favicons?domain=spigotmc.org) [**SpigotMC**](https://www.spigotmc.org/members/imdanix.99979/)
 ![RuBukkit](https://www.google.com/s2/favicons?domain=rubukkit.org) [**RuBukkit**](http://rubukkit.org/members/imdanix.70259/)
