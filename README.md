@@ -1,12 +1,8 @@
 ## Hello, I'm DaniX 👋
 
-My full name is _Daniil Zaostrovtsev_, and I'm just a developer from Russia 🇷🇺. My main programming language is Java, but I'm currently learning to use Rust as a hobby.
-
-I'm usually developing Minecraft's Bukkit API plugins. Biggest of my _public_ projects are gameplay-changing [Dangerous Caves 2](https://github.com/imDaniX/Dangerous-Caves-2) plugin and a fork of an easy-to-use scripting plugin [ReActions](https://github.com/imDaniX/ReActions). 
+My name is _Daniil Zaostrovtsev_, and I'm just a humble Java developer from Russia 🇷🇺.
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=imDaniX)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contact me? 📫
 
 [![SpigotMC](https://www.google.com/s2/favicons?domain=spigotmc.org) **SpigotMC**](https://www.spigotmc.org/members/imdanix.99979/)
 [![RuBukkit](https://www.google.com/s2/favicons?domain=rubukkit.org) **RuBukkit**](http://rubukkit.org/members/imdanix.70259/)
